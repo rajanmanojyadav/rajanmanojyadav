@@ -184,3 +184,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajanmanojyadav&show_icons=true&locale=en" alt="rajanmanojyadav" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajanmanojyadav&" alt="rajanmanojyadav" /></p>
+\
+
+
+
+
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rajanmanojyadav&repo=QuizApp&theme=ayu-mirage)](https://github.com/rajanmanojyada/QuizApp)
